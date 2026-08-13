@@ -1,4 +1,4 @@
-print("✨✨✨✨✨✨✨✨College Admission Eligiblity Check✨✨✨✨✨✨✨✨")
+print("========College Admission Eligiblity Check=========")
 age=int(input("Enter age of student:"))
 marks=int(input("Enter marks:"))
 
@@ -21,4 +21,4 @@ else:
     print("Not eligible for admission") 
     
     
-print("✨✨✨✨✨✨✨✨Thank You✨✨✨✨✨✨✨✨")
+print("=======Thank You"========")
