@@ -1,6 +1,6 @@
 # Program to calculate total and average marks
-
 # Input marks for three subjects
+
 mark1 = float(input("Enter marks for Subject 1: "))
 mark2 = float(input("Enter marks for Subject 2: "))
 mark3 = float(input("Enter marks for Subject 3: "))
