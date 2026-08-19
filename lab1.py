@@ -1,4 +1,4 @@
-## student introduction system
+# student introduction system
 print("***************student details******************")
 name=input("enter your name:")
 college=input("enter your college name:")
